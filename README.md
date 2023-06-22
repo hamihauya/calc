@@ -28,7 +28,7 @@ Python version: 3.10
 (number) => * => number => **result**
 
 ### Divide ###
-(number) => + => number => **result**
+(number) => / => number => **result**
 
 ## Memory ops ##
 ### Add title value to Memory ###
