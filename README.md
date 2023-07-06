@@ -6,7 +6,7 @@ Modified date: 2022-10-12\
 User lang set: English
 
 # How do start this program
-OS: Windows 10
+OS: Windows 10\
 Python version: 3.10
 1. Open command (Windows application).
 2. Type "py calc.py".
