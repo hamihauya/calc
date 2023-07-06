@@ -1,7 +1,7 @@
  # calculate.py
  # Made by pnkprst 2022-09-14
-import ccbase
 import os
+import ccbase
 def clrscr():
     os.system("cls")
 def getstdin():
